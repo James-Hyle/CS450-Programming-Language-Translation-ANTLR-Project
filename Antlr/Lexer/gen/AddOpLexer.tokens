@@ -1,0 +1,8 @@
+ADDOP=1
+ADD=2
+INT=3
+PLUS=4
+EQUAL=5
+WS=6
+'+'=4
+'='=5
